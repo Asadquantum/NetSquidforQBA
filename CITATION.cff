@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Netsquid Simulations of Quantum Consensus
+  Algorithms 
+message: Hello
+type: software
+authors:
+  - given-names: Muhammad Asad
+    family-names: Ullah
+    email: asad@khu.ac.kr
+    affiliation: Kyung Hee University
+    orcid: 'https://orcid.org/0000-0002-2494-3914'
+  - given-names: Jason Willian
+    email: jasonwilliam98@khu.ac.kr
+    affiliation: Kyung Hee University
+    family-names: Setiawan
+    orcid: 'https://orcid.org/0000-0003-1284-6735'
